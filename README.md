@@ -103,7 +103,7 @@ Filtering is implemented using JavaScript without reloading the page.
 ---
 
 # 📂 Project Structure
-Image-Gallery/
+Gallery/
 │
 
 ├── index.html
@@ -111,8 +111,7 @@ Image-Gallery/
 ├── style.css
 
 ├── script.js
-│
-├── gallery/
+
 
 │ ├── image2.jpg.jpg
 
@@ -128,3 +127,18 @@ Image-Gallery/
 
 │
 └── README.md
+
+# 📌 Conclusion
+
+The **Responsive Image Gallery** is a beginner-friendly yet practical frontend project that demonstrates modern web development techniques. It combines attractive UI design with interactive JavaScript functionality, resulting in a responsive and user-friendly gallery experience. This project enhanced my understanding of responsive layouts, DOM manipulation, animations, and interactive web interfaces while following industry-standard frontend development practices.
+
+---
+
+## 👨‍💻 Developed By....
+
+**Shiv Sundar Maurya**
+
+### 🎓 CodeAlpha Internship
+**Frontend Development**
+
+⭐ If you found this project useful, don't forget to star the repository!
