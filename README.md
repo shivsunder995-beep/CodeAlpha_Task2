@@ -87,22 +87,8 @@ Users can filter images based on categories such as:
 - 🌄 Nature
 - 🏙️ City
 - 🐶 Animals
-- 🚗 Vehicles
-- 🌸 Flowers
-- 🎭 Others
 
 Filtering is implemented using JavaScript without reloading the page.
-
----
-
-### 🎭 Bonus Feature – Image Filters
-Optional image effects using CSS:
-
-- 🌈 Grayscale
-- ☀️ Brightness
-- 🎨 Sepia
-- 🌟 Contrast
-- 🌙 Blur
 
 ---
 
@@ -117,3 +103,18 @@ Optional image effects using CSS:
 ---
 
 # 📂 Project Structure
+Image-Gallery/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── gallery/
+│ ├── image2.jpg.jpg
+│ ├── image3.jpg.jpg
+│ ├── image4.jpg.jpg
+│ ├── image5.jpg.jpg
+│ ├── image7.jpg.jpg
+│ └── image8.jpeg
+│
+└── README.md
