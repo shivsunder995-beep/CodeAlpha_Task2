@@ -106,15 +106,23 @@ Filtering is implemented using JavaScript without reloading the page.
 Image-Gallery/
 │
 ├── index.html
+
 ├── style.css
+
 ├── script.js
 │
 ├── gallery/
+
 │ ├── image2.jpg.jpg
+
 │ ├── image3.jpg.jpg
+
 │ ├── image4.jpg.jpg
+
 │ ├── image5.jpg.jpg
+
 │ ├── image7.jpg.jpg
+
 │ └── image8.jpeg
 │
 └── README.md
