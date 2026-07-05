@@ -105,6 +105,7 @@ Filtering is implemented using JavaScript without reloading the page.
 # 📂 Project Structure
 Image-Gallery/
 │
+
 ├── index.html
 
 ├── style.css
@@ -124,5 +125,6 @@ Image-Gallery/
 │ ├── image7.jpg.jpg
 
 │ └── image8.jpeg
+
 │
 └── README.md
